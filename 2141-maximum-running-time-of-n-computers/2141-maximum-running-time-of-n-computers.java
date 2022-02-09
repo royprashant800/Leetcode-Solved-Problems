@@ -3,10 +3,11 @@ class Solution {
         long l = 0, r = 0;
         for(int num : batteries) 
             r += (long)num;
+        r = r/n;
         long res = 0;
         while(l <= r) {
             long mid = l + (r - l)/2;
-            if(possible(n, batteries, mid)) {
+            if(possible(n, batteries, mid)) {  
                 l = mid + 1;
                 res = mid;
             }
