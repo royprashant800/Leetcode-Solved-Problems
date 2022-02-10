@@ -1,34 +1,21 @@
 class Solution {
-    int mod = 1000000007;
     public int numberOfWays(String corridor) {
+        int mod = 1000000007;
         int n = corridor.length();
-        Integer[][] dp = new Integer[n + 1][3];
-        return helper(0, 0, corridor, dp);
-    }
-    private int helper(int ind, int seats, String corridor, Integer[][] dp) {
-        if(ind == corridor.length()) {
-            if(seats == 2) return 1;
-            return 0;
-        }
+        List<Integer> seats = new ArrayList<>();
+        for(int i = 0; i < n; i++)
+            if(corridor.charAt(i) == 'S')
+                seats.add(i);
         
-        if(dp[ind][seats] != null)
-            return dp[ind][seats]; 
+        if(seats.size() == 0 || seats.size() % 2 == 1) return 0; 
         
-        int calls = 0;
-        if(seats == 2) {
-            if(corridor.charAt(ind) == 'P') {
-                calls += helper(ind + 1, 0, corridor, dp); 
-                calls %= mod; 
-                calls += helper(ind + 1, seats, corridor, dp);
-                calls %= mod;
-            } else {
-                calls += helper(ind + 1, 1, corridor, dp);
-                calls %= mod;
-            }
-        } else {
-            calls += helper(ind + 1, seats + (corridor.charAt(ind) == 'S' ? 1 : 0), corridor, dp);
-            calls %= mod;
+        int prev = seats.get(1);
+        long res = 1;
+        for(int i = 2; i < seats.size(); i += 2) {
+            res *= (seats.get(i) - prev);
+            res %= mod;
+            prev = seats.get(i + 1);
         }
-        return dp[ind][seats] = calls;
+        return (int)res;
     }
 }
