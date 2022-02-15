@@ -37,7 +37,7 @@ class Solution {
         for (int j = 0; j <= b; j++) {
           int[] ret = earliestAndLatest(m, i + 1, i + j + 2);
           min = Math.min(min, 1 + ret[0]);
-          max = Math.max(max, 1 + ret[0]);
+          max = Math.max(max, 1 + ret[1]);
         }
       }
     } else {
