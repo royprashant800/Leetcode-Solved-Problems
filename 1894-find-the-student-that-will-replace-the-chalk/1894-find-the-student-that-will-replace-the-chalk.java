@@ -4,15 +4,13 @@ class Solution {
         if(chalk[0] > k) return 0;
         long sum = 0;
         for(int num : chalk) sum += (long)num;
-        System.out.println(sum);
-        while(sum <= k) {
-            k -= sum;
-        }
+        
+        long rem = k % sum;
         
         for(int i = 0; i < n; i++) {
-            if(chalk[i] > k) 
+            if(chalk[i] > rem) 
                 return i;
-            k -= chalk[i];
+            rem -= chalk[i];
         }
         return 0;
     }
