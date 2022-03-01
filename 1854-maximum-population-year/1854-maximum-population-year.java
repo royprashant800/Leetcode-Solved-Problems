@@ -10,8 +10,10 @@ class Solution {
         }
         for(int i = 1950; i <= 2050; i++) {
             count += arr[i - 1950];
-            year = max < count ? i : year;
-            max = Math.max(max, count);
+            if(count > max) {
+                max = count;
+                year = i;
+            }
         }
         return year;
     }
