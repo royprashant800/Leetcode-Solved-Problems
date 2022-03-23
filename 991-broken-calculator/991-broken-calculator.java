@@ -1,13 +1,11 @@
 class Solution {
-    public int brokenCalc(int s, int t) {
-        if(s > t) return s - t;
-        
+    public int brokenCalc(int s, int t) {        
         int res = 0;
-        while(t != s) {
-            if(t < s || t % 2 != 0) t++;
-            else if(t % 2 == 0) t /= 2;
+        while(t > s) {
+            if(t % 2 == 0) t /= 2;
+            else t++;
             res++;
         }
-        return res;
+        return res + (s - t); 
     }
 }
