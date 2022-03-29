@@ -1,11 +1,12 @@
 class Solution {
     public int getMaximumConsecutive(int[] coins) {
-        int[] ct = new int[40001];
-        for(int c : coins) ct[c]++;
+        Arrays.sort(coins);
         
         int res = 1;
-        for(int i = 1; i < ct.length && i <= res; i++)
-            res += (i * ct[i]);
+        for(int c : coins) {
+            if(c > res) break;
+            res += c;
+        }
         return res;
     }
 }
