@@ -1,32 +1,14 @@
 class Solution {
-    public static List<List<Integer>> findWinners(int[][] matches) {
-		List<List<Integer>> list = new ArrayList<>();
-		List<Integer> list1 = new ArrayList<>();
-		int n = matches.length;
-		TreeMap<Integer, Integer> map = new TreeMap<>();
-		for (int i = 0; i < n; i++) {
-			if (map.containsKey(matches[i][1])) {
-				map.put(matches[i][1], map.get(matches[i][1]) + 1);
-			} else {
-				map.put(matches[i][1], 1);
-			}
-		}
-		for (Map.Entry<Integer, Integer> e : map.entrySet()) {
-			if (e.getValue() == 1) {
-				list1.add(e.getKey());
-			}
-		}
-		TreeSet<Integer> ans = new TreeSet<>();
-		for (int i = 0; i < n; i++) {
-			if (!map.containsKey(matches[i][0])) {
-				ans.add(matches[i][0]);
-			}
-		}
-		List<Integer> list2 = new ArrayList<>(ans);
-		list.add(list2);
-		list.add(list1);
-
-		return list;
-
-	}
+    public List<List<Integer>> findWinners(int[][] matches){
+        Map<Integer, Integer> losses = new TreeMap<>();
+        for(int[] m : matches){
+            losses.put(m[0], losses.getOrDefault(m[0], 0));
+            losses.put(m[1], losses.getOrDefault(m[1], 0) + 1);
+        }
+        List<List<Integer>> r = Arrays.asList(new ArrayList<>(), new ArrayList<>());
+        for(Integer player : losses.keySet())
+            if(losses.get(player) <= 1)
+                r.get(losses.get(player)).add(player);
+        return r;
+    }
 }
