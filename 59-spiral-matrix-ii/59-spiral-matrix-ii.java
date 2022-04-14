@@ -1,31 +1,23 @@
 class Solution {
     public int[][] generateMatrix(int n) {
-       int[][] ans = new int[n][n];
-        int c=1;
-        int top = 0, bottom =n-1,left =0,right =n-1;
-        while(top <= bottom && left <= right)
-        {
-            for(int i=left;i<= right;i++)
-            {
-                ans[top][i]=c++;
+        int[][] nums = new int[n][n];
+        int val = 1, r1 = 0, r2 = n - 1, c1 = 0, c2 = n - 1;
+        
+        while(r1 <= r2 && c1 <= c2) {
+            for(int i = c1; i <= c2; i++) nums[r1][i] = val++;
+            
+            for(int i = r1 + 1; i <= r2; i++) nums[i][c2] = val++;
+            
+            if(r1 < r2 && c1 < c2) {
+                for(int i = c2 - 1; i > c1; i--) nums[r2][i] = val++;
+                
+                for(int i = r2; i > r1; i--) nums[i][c1] = val++;
             }
-            top++;
-            for(int i= top;i<= bottom;i++)
-            {
-                ans[i][right]=c++;
-            }
-            right--;
-            for(int i= right;i>= left;i--)
-            {
-                ans[bottom][i]=c++;
-            }
-            bottom--;
-            for(int i= bottom;i>= top;i--)
-            {
-                ans[i][ left]=c++;
-            }
-            left++;
+            r1++;
+            r2--;
+            c1++;
+            c2--;
         }
-        return ans;
+        return nums;
     }
 }
