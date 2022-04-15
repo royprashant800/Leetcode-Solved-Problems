@@ -1,49 +1,31 @@
 class FrontMiddleBackQueue {
-
-    Deque<Integer> q;
+    List<Integer> li;
     public FrontMiddleBackQueue() {
-        q = new LinkedList<>();
+        li = new ArrayList<>();
     }
     
     public void pushFront(int val) {
-        q.addFirst(val);
+        li.add(0, val);
     }
     
     public void pushMiddle(int val) {
-        int n = q.size();
-        n = n / 2;
-        List<Integer> li = new ArrayList<>();
-        while(n-- > 0) {
-            li.add(q.pollFirst());
-        }
-        q.addFirst(val);
-        for(int i = li.size() - 1; i >= 0; i--) 
-            q.addFirst(li.get(i));
+        li.add(li.size() / 2, val);
     }
     
     public void pushBack(int val) {
-        q.addLast(val);
+        li.add(val);
     }
     
     public int popFront() {
-        return q.isEmpty() == true ? -1 : q.pollFirst();
+        return li.isEmpty() ? -1 : li.remove(0);
     }
     
     public int popMiddle() {
-        int n = q.size();
-        n = (n - 1) / 2;
-        List<Integer> li = new ArrayList<>();
-        while(n-- > 0) {
-            li.add(q.pollFirst());
-        }
-        int res = q.isEmpty() == true ? -1 : q.pollFirst();
-        for(int i = li.size() - 1; i >= 0; i--) 
-            q.addFirst(li.get(i));
-        return res;
+        return li.isEmpty() ? -1 : li.remove((li.size() - 1) / 2);
     }
     
     public int popBack() {
-        return q.isEmpty() == true ? -1 : q.pollLast();
+        return li.isEmpty() ? -1 : li.remove(li.size() - 1);
     }
 }
 
