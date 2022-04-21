@@ -1,22 +1,19 @@
 class MyHashSet {
-    int[] nums;
+    boolean[] num;
     public MyHashSet() {
-        nums = new int[1000001];
+        num = new boolean[1000001];
     }
     
     public void add(int key) {
-        if(nums[key] == 0)
-            nums[key]++;
+        num[key] = true;
     }
     
     public void remove(int key) {
-        if(nums[key] == 1)
-            nums[key]--;
+        num[key] = false;
     }
     
     public boolean contains(int key) {
-        if(nums[key] == 1) return true;
-        return false;
+        return num[key];
     }
 }
 
