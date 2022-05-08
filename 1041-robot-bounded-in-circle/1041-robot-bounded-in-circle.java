@@ -1,15 +1,16 @@
 class Solution {
-    private static final int[] DELTAS = { 0, -1, -1, 0, 0, 1, 1, 0 };
-    
-    public boolean isRobotBounded(String instructions) {
-        int x = 0, y = 0, facing = 0;  // at origin, facing north
-        for (int i = 0; i < instructions.length(); i++) {
-            switch (instructions.charAt(i)) {
-                case 'G': x += DELTAS[facing]; y += DELTAS[facing + 1]; break;
-                case 'L': facing = (facing + 2) % 8; break;
-                case 'R': facing = (facing + 6) % 8; break;
+    public boolean isRobotBounded(String ins) {
+        int x = 0, y = 0, i = 0, d[][] = {{0, 1}, {1, 0}, {0, -1}, {-1, 0}};
+        
+        for(int j = 0; j < ins.length(); j++) {
+            if(ins.charAt(j) == 'R')
+                i = (i + 1) % 4;
+            else if(ins.charAt(j) == 'L')
+                i = (i + 3) % 4;
+            else {
+                x += d[i][0]; y += d[i][1];
             }
         }
-        return facing != 0 || (x == 0 && y == 0);
+        return x == 0 && y == 0 || i > 0;
     }
 }
