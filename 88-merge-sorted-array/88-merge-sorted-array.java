@@ -14,7 +14,7 @@ class Solution {
                         int num = nums2[k];
                         nums2[k] = nums2[k - 1];
                         nums2[k - 1] = num;
-                    }
+                    } else break;
                 }
             }
         }
