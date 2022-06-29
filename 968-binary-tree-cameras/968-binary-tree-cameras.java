@@ -34,7 +34,7 @@ class Solution {
                 covered.add(node);
                 covered.add(parent);
                 covered.add(node.left);
-                covered.add(node.left);
+                covered.add(node.right);
             }
         }
     }
