@@ -25,8 +25,8 @@ class Solution {
             for(int i = 0; i < size; i++) {
                 TreeNode temp = q.poll();
                 levelSum += (double)temp.val;
-                if(temp.left != null) q.add(temp.left);
-                if(temp.right != null) q.add(temp.right);
+                if(temp.left != null) q.offer(temp.left);
+                if(temp.right != null) q.offer(temp.right);
             }
             res.add(levelSum / size);
         }
