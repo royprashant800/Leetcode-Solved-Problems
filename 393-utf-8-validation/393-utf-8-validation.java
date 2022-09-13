@@ -30,7 +30,7 @@ class Solution {
     }
     
     private int getBytes(int first) {
-        int i = 1;
+        int i = 0;
 
         if((first & bit_7_mask) == 0)
             return 1;
