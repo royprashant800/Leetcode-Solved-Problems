@@ -1,7 +1,7 @@
 class Solution {
     public int[] findOriginalArray(int[] changed) {
         int n = changed.length;
-        if(n % 2 != 0) return new int[]{};
+        if(n % 2 != 0) return new int[0];
         
         Map<Integer, Integer> map = new TreeMap<>();
         for(int i = 0; i < n; i++) 
@@ -12,7 +12,7 @@ class Solution {
         
         for(int x : map.keySet()) {
             if(map.get(x) > map.getOrDefault(x + x, 0))
-                return new int[]{};
+                return new int[0];
             
             for(int j = 0; j < map.get(x); j++) {
                 res[i++] = x;
