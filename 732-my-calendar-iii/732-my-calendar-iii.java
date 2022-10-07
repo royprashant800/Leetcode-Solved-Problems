@@ -9,13 +9,11 @@ class MyCalendarThree {
     public int book(int start, int end) {
         int temp = 0;
         
-        Integer val = map.get(start);
-        map.put(start, val == null ? 1 : val + 1);
-        val = map.get(end);
-        map.put(end, val == null ? -1 : val - 1);
+        map.put(start, map.getOrDefault(start, 0) + 1);
+        map.put(end, map.getOrDefault(end, 0) - 1);
         
-        for(Map.Entry<Integer, Integer> it : map.entrySet())
-            res = Math.max(res, temp += it.getValue());
+        for(int it : map.values())
+            res = Math.max(res, temp += it);
         
         return res;
     }
