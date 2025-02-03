@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 ## Greedy
