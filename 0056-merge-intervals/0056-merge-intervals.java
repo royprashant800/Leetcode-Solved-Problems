@@ -13,8 +13,7 @@ class Solution {
             }
         }
         res.add(new int[]{prevStart, prevEnd});
-        int[][] ans = new int[res.size()][2];
-        for(int i = 0; i < res.size(); i++) ans[i] = res.get(i);
-        return ans;
+        
+        return res.toArray(new int[0][]);
     }
 }
