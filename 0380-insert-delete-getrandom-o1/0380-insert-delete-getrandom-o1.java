@@ -1,11 +1,14 @@
 class RandomizedSet {
     List<Integer> list;
+    Map<Integer, Integer> map;
     public RandomizedSet() {
         list = new ArrayList<>();
+        map = new HashMap<>();
     }
     
     public boolean insert(int val) {
         if(!list.contains(val)) {
+            map.put(val, list.size());
             list.add(val);
             return true;
         }
@@ -13,13 +16,18 @@ class RandomizedSet {
     }
     
     public boolean remove(int val) {
-        for(int i = 0; i < list.size(); i++) {
-            if(list.get(i) == val) {
-                list.remove(i);
-                return true;
-            }
+        boolean contain = map.containsKey(val);
+        if(!contain) return false;
+
+        int index = map.get(val);
+        if(index < list.size() - 1) {
+            int last = list.get(list.size() - 1);
+            list.set(index, last);
+            map.put(last, index);
         }
-        return false;
+        map.remove(val);
+        list.remove(list.size() - 1);
+        return true;
     }
     
     public int getRandom() {
