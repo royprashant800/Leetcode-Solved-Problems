@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
@@ -106,10 +107,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
+| [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 ## String
 |  |
 | ------- |
