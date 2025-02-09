@@ -14,7 +14,7 @@ class Solution {
                     res = sum;
                 } 
                 if(sum < target) j++;
-                else k--; 
+                if(sum > target) k--;
             }
         }
         return res;
