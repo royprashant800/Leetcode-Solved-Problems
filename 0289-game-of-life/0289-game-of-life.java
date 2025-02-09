@@ -14,13 +14,8 @@ class Solution {
                     }
                 }
                 int liveSum = arr[1] + arr[2];
-                if(board[i][j] == 1) {
-                    if(liveSum < 2) board[i][j] = 2;
-                    else if(liveSum > 3) board[i][j] = 2;
-                } else if(board[i][j] == 0) {
-                    if(liveSum == 3) board[i][j] = 3;
-                }
-
+                if(board[i][j] == 1 && (liveSum < 2 || liveSum > 3)) board[i][j] = 2;
+                else if(board[i][j] == 0 && liveSum == 3) board[i][j] = 3;
             }
         }
         for(int i = 0; i < m; i++) {
@@ -28,7 +23,7 @@ class Solution {
                 int curr = board[i][j];
                 if(curr == 2) board[i][j] = 0;
                 else if(curr == 3) board[i][j] = 1;
-           }
+            }
         }
     }
     private boolean isValid(int[][] board, int i, int j) {
