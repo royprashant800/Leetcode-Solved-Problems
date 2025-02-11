@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -71,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
