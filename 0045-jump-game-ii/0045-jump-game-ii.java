@@ -1,19 +1,16 @@
 class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
-        Integer[] dp = new Integer[n];
-        return minJumps(nums, 0, n, dp);
-    }
-    private int minJumps(int[] nums, int i ,int n, Integer[] dp) {
-        if(i >= n) return (int)1E8;
-        if(i == n - 1) return 0;
+        int[] dp = new int[n];
+        dp[n - 1] = 0;
 
-        if(dp[i] != null) return dp[i]; 
-
-        int res = (int)1E8;
-        for(int j = i + 1; j <= Math.min(i + nums[i], n - 1); j++) {
-            res = Math.min(res, 1 + minJumps(nums, j, n, dp));
+        for(int i = n - 2; i >= 0; i--) {
+            int res = (int)1E8;
+            for(int j = i + 1; j <= Math.min(i + nums[i], n - 1); j++) {
+                res = Math.min(res, 1 + dp[j]);
+            }
+            dp[i] = res;
         }
-        return dp[i] = res;
+        return dp[0];
     }
 }
