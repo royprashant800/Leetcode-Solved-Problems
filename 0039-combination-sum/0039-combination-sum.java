@@ -9,11 +9,13 @@ class Solution {
             if(!res.contains(curr)) res.add(new ArrayList<>(curr));
             return;
         }
-        if(i >= nums.length || k < 0) return;
+        if(i >= nums.length) return;
 
-        curr.add(nums[i]);
-        solve(nums, k - nums[i], i, curr, res);
-        curr.remove(curr.size() - 1);
+        if(nums[i] <= k) {
+            curr.add(nums[i]);
+            solve(nums, k - nums[i], i, curr, res);
+            curr.remove(curr.size() - 1);
+        }
         solve(nums, k, i + 1, curr, res);
     }
 }
