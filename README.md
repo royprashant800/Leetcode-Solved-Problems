@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
@@ -82,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Divide and Conquer
 |  |
