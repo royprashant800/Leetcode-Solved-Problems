@@ -2,21 +2,18 @@ class Solution {
     public int jump(int[] nums) {
         int n = nums.length;
         Integer[] dp = new Integer[n];
-        return solve(nums, 0, n, dp);
+        return minJumps(nums, 0, n, dp);
     }
-    
-	static int solve(int[] arr, int ind, int n, Integer[] dp) {
-		if(ind == n - 1)
-			return 0;
-        
-        if(dp[ind] != null)
-            return dp[ind];
-		
-		int min = (int)1e9;
-		for(int i = ind + 1; i <= Math.min(ind + arr[ind], n - 1); i++) {
-			int jumps = 1 + solve(arr, i, n, dp);
-			min = Math.min(jumps, min);
-		}
-		return dp[ind] = min;
-	}
+    private int minJumps(int[] nums, int i ,int n, Integer[] dp) {
+        if(i >= n) return (int)1E8;
+        if(i == n - 1) return 0;
+
+        if(dp[i] != null) return dp[i]; 
+
+        int res = (int)1E8;
+        for(int j = i + 1; j <= Math.min(i + nums[i], n - 1); j++) {
+            res = Math.min(res, 1 + minJumps(nums, j, n, dp));
+        }
+        return dp[i] = res;
+    }
 }
