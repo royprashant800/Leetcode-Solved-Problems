@@ -4,21 +4,20 @@ class Solution {
         for(int num : nums) sum += num;
         if(sum - target < 0 || (sum - target) % 2 == 1) return 0;
         int s2 = (sum - target) / 2;
-        Integer[][] dp = new Integer[n][s2 + 1];
-        return solve(nums, n - 1, s2, dp);
-    }
-    private int solve(int[] nums, int n, int target, Integer[][] dp) {
-        if(n == 0) {
-            if(target == 0 && nums[0] == 0) return 2;
-            if(target == 0 || target == nums[0]) return 1;
-            return 0;
+        int[][] dp = new int[n][s2 + 1];
+
+        if(nums[0] == 0) dp[0][0] = 2;
+        else dp[0][0] = 1;
+        if(nums[0] != 0 && nums[0] <= s2) dp[0][nums[0]] = 1;
+
+        for(int i = 1; i < n; i++) {
+            for(int j = 0; j <= s2; j++) {
+                int notTake = dp[i - 1][j];
+                int take = 0;
+                if(nums[i] <= j) take = dp[i - 1][j - nums[i]];
+                dp[i][j] = notTake + take;
+            }
         }
-
-        if(dp[n][target] != null) return dp[n][target];
-
-        int notTake = solve(nums, n - 1, target, dp);
-        int take = 0;
-        if(nums[n] <= target) take = solve(nums, n - 1, target - nums[n], dp);
-        return dp[n][target] = notTake + take;
+        return dp[n - 1][s2];
     }
 }
