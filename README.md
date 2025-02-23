@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0039-combination-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
 ## Binary Search
 |  |
