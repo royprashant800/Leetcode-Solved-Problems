@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,4 +160,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Stack
+|  |
+| ------- |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 <!---LeetCode Topics End-->
