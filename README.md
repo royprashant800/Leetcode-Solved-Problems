@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
