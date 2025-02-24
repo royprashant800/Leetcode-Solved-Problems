@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
 ## Graph
 |  |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
+| [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 ## Simulation
 |  |
 | ------- |
@@ -195,4 +199,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Union Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
