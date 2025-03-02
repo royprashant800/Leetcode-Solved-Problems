@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -197,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
