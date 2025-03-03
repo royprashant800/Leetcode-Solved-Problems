@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -161,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
