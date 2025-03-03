@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
 ## Dynamic Programming
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Math
 |  |
