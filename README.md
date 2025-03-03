@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -197,11 +198,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
