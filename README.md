@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## String
 |  |
 | ------- |
