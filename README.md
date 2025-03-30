@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 ## Divide and Conquer
 |  |
@@ -184,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
+| [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Backtracking
