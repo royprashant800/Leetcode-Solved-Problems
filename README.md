@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Two Pointers
 |  |
 | ------- |
