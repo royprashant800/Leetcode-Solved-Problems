@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2280-count-good-triplets-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
