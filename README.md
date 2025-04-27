@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
@@ -225,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
