@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0016-3sum-closest](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
