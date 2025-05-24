@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0416-partition-equal-subset-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
@@ -160,11 +163,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
 ## Prefix Sum
@@ -320,8 +325,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
