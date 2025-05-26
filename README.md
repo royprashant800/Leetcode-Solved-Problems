@@ -20,10 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Array
 |  |
 | ------- |
@@ -99,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0494-target-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
 ## Two Pointers
 |  |
@@ -172,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -335,4 +340,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
