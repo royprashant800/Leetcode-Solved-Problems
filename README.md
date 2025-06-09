@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0232-implement-queue-using-stacks) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0025-reverse-nodes-in-k-group](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -347,4 +350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
