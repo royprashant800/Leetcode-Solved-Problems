@@ -1,7 +1,7 @@
 class MinStack {
 
     Stack<Integer> stack;
-    Map<Integer, Integer> map;
+    TreeMap<Integer, Integer> map;
     public MinStack() {
         stack = new Stack<>();
         map = new TreeMap<>();
@@ -25,8 +25,7 @@ class MinStack {
     }
     
     public int getMin() {
-        Set<Integer> keys = map.keySet();
-        return keys.iterator().next();
+        return map.firstKey();
     }
 }
 
