@@ -1,35 +1,32 @@
-class Pair {
-    int x;
-    int y;
-    public Pair(int x, int y) {
-        this.x = x;
-        this.y = y;
-    }
-}
 class MinStack {
-    Stack<Pair> st;
+
+    Stack<Integer> stack;
+    Map<Integer, Integer> map;
     public MinStack() {
-        st = new Stack<>();
+        stack = new Stack<>();
+        map = new TreeMap<>();
     }
     
     public void push(int val) {
-        int min;
-        if(st.isEmpty()) min = val;
-        else min = Math.min(st.peek().y, val);
-
-        st.push(new Pair(val, min));
+        stack.push(val);
+        map.put(val, map.getOrDefault(val, 0) + 1);
     }
     
     public void pop() {
-        st.pop();
+        int val = stack.pop();
+        int freq = map.get(val);
+        if(freq > 1) map.put(val, map.getOrDefault(val, 0) - 1);
+        else map.remove(val);
     }
     
     public int top() {
-        return st.peek().x;
+        int val = stack.peek();
+        return val;
     }
     
     public int getMin() {
-        return st.peek().y;
+        Set<Integer> keys = map.keySet();
+        return keys.iterator().next();
     }
 }
 
