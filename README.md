@@ -200,6 +200,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -231,6 +232,7 @@
 | [0289-game-of-life](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0289-game-of-life) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -265,12 +267,14 @@
 | [0078-subsets](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
