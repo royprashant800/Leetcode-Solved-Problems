@@ -83,6 +83,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Hash Table
@@ -122,6 +123,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -357,6 +359,7 @@
 | [0239-sliding-window-maximum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Quickselect
 |  |
 | ------- |
