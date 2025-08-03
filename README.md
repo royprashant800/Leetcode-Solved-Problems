@@ -80,6 +80,7 @@
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -194,6 +195,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2249-count-the-hidden-sequences) |
 ## Math
 |  |
@@ -266,6 +268,7 @@
 | [0287-find-the-duplicate-number](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
@@ -316,6 +319,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0239-sliding-window-maximum) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Union Find
 |  |
 | ------- |
