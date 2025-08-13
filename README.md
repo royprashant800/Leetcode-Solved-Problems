@@ -246,6 +246,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0038-count-and-say](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
