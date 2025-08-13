@@ -202,6 +202,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0048-rotate-image) |
+| [0326-power-of-three](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0326-power-of-three) |
 | [0368-largest-divisible-subset](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -283,6 +284,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0326-power-of-three](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0326-power-of-three) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
