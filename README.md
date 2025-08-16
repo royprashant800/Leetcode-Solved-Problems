@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0079-word-search) |
+| [0199-binary-tree-right-side-view](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
@@ -309,6 +311,7 @@
 ## Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
@@ -317,6 +320,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Sliding Window
 |  |
