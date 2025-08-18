@@ -10,6 +10,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0695-max-area-of-island) |
 | [0820-find-eventual-safe-states](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0820-find-eventual-safe-states) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Graph
 |  |
 | ------- |
@@ -107,6 +109,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0768-partition-labels](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0768-partition-labels) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1160-letter-tile-possibilities](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1160-letter-tile-possibilities) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
@@ -162,6 +165,7 @@
 | [0347-top-k-frequent-elements](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0368-largest-divisible-subset) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1575-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -313,6 +317,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -322,6 +327,7 @@
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/royprashant800/Leetcode-Solved-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
